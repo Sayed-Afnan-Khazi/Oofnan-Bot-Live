@@ -14,7 +14,7 @@ def createApi():
 
     # Getting the env variables
     CLIENT_ID = os.environ["CLIENT_ID"]
-    CLIENT_SECRET = os.environ["CONSUMER_KEY"]
+    CLIENT_SECRET = os.environ["CLIENT_SECRET"]
     CONSUMER_KEY = os.environ["CONSUMER_KEY"]
     CONSUMER_SECRET = os.environ["CONSUMER_SECRET"]
     ACCESS_KEY = os.environ["ACCESS_KEY"]
